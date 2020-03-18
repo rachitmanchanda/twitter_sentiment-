@@ -8,12 +8,12 @@ Created on Wed Mar 18 15:12:44 2020
 import tweepy 
 from textblob import TextBlob
 
-consumer_key = '76qUNMblWo2e0jc1oDaP4I0GC'
-consumer_secret = 'aCSpPJnr61Pl7ntmXH85AT0Zc09Tqd9IcwVrSDJPjPmrd0cOHJ' 
+consumer_key = 'consumer_key'
+consumer_secret = 'consumer_secret' 
 
 
-access_token = '924350760267206656-lckrrcz7VAA3dV5CD5IV6Ims4q5f0D4'
-access_token_secret = 'Hi23CP5Ax8RQVEj9c5KlxeJvXaj6BeHSOgE9oPtMJWpRo'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
 
 #authentication
 
